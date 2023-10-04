@@ -1,2 +1,3 @@
 # CTF-Writeups
-A series of write ups for ctfs
+
+*Writeups will be added soon!
