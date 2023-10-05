@@ -137,7 +137,7 @@
 
 - [X] [ Rootme](https://tryhackme.com/room/rrootme)
 - [ ] [ Ignite](https://tryhackme.com/room/ignite)
-- [ ] [ Pickle Rick](https://tryhackme.com/room/picklerick)
+- [X] [ Pickle Rick](https://tryhackme.com/room/picklerick)
 - [ ] [ Cyborg](https://tryhackme.com/room/cyborgt8)
 - [ ] [ Tomghost](https://tryhackme.com/room/tomghost)
 - [ ] [ Source](https://tryhackme.com/room/source)
