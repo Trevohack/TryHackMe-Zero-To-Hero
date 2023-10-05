@@ -83,7 +83,7 @@ Target: http://10.10.84.218/
 
 ![shell-got](https://i.postimg.cc/26BY7CTJ/shell.png)
 
-### First Ingredient
+### Ingredients
 
 ```bash
 $ cat /var/www/html/Sup3rS3cretPickl3Ingred.txt
