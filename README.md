@@ -1,5 +1,11 @@
 
-# TryHackMe - Hackers Learning Path
+
+<div align="center">
+  <a target="_blank" href="#"><img src="https://i.postimg.cc/mZmsVfV8/f7450454-158c-45e0-8b38-0c0ae4d7394c.png" width="1000"></a>
+</div>
+
+<h1 align="center">TryHackMe - Hackers Learning Path</h1>
+
 
 * Below is a series of rooms/machines in TryHackMe for beginners to cyber security to learn and practice.
 
