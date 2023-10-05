@@ -1,4 +1,3 @@
-# Athena
 
 ![](https://tryhackme-images.s3.amazonaws.com/room-icons/53d3c28c1af197142685ceb238d5ce3c.png)
 
