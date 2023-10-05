@@ -144,6 +144,7 @@
 
 #### Medium 
 
+- [X] [ Athena](https://tryhackme.com/room/4th3n4)
 - [ ] [ Wonderland](https://tryhackme.com/room/wonderland)
 - [ ] [ Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 - [ ] [ dogcat](https://tryhackme.com/room/relevant)
@@ -158,4 +159,6 @@
 - [ ] [ Ra](https://tryhackme.com/room/ra)
 
 
-> Congrats! If you have done all the rooms mentioned here, you are officially a penetration tester. You can go ahead in your career with other resources and platforms.
+``` 
+Congrats! 🥳 If you have done all the rooms mentioned here, you are officially a penetration tester. You can go ahead in your career with other resources and platforms. 
+``` 
