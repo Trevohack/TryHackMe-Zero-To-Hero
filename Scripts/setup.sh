@@ -2,7 +2,7 @@
 
 
 # Trevohack's TryHackMe Lab Setup 
-# curl -O https://raw.githubusercontent.com/Trevohack/TryHackMe-Zero-To-Hero/main/Scripts/setup.h && chmod +x setup.sh && setup.sh
+# curl -O https://raw.githubusercontent.com/Trevohack/TryHackMe-Zero-To-Hero/main/Scripts/setup.sh && chmod +x setup.sh && ./setup.sh
 
 sudo mkdir -p /opt/utils/
 sudo mkdir -p /opt/wordlists/
