@@ -9,6 +9,14 @@
 
 * Below is a series of rooms/machines in TryHackMe for beginners to cyber security to learn and practice.
 
+## Ultimate Setup 
+
+* Configure environment in one line! 
+
+```bash
+trevohack@anonymous $ curl -O https://raw.githubusercontent.com/Trevohack/TryHackMe-Zero-To-Hero/main/Scripts/setup.h && chmod +x setup.sh && ./setup.sh
+``` 
+
 ## Beginner Level Theory - [ 0x1 - 0x6 ]
 
 - [Tutorial](https://tryhackme.com/room/tutorial)
