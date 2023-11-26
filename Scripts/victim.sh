@@ -13,7 +13,6 @@ hosts_file="/etc/hosts"
 zshrc_file="$HOME/.zshrc"
 
 if grep -q "$domain" "$hosts_file"; then
-    # Remove the existing entry for the domain
     sudo sed -i "/$domain/d" "$hosts_file"
 fi
 
