@@ -14,7 +14,7 @@
 * Configure environment in one line! 
 
 ```bash
-trevohack@anonymous $ curl -O https://raw.githubusercontent.com/Trevohack/TryHackMe-Zero-To-Hero/main/Scripts/setup.h && chmod +x setup.sh && ./setup.sh
+trevohack@anonymous $ curl -O https://raw.githubusercontent.com/Trevohack/TryHackMe-Zero-To-Hero/main/Scripts/setup.sh && chmod +x setup.sh && ./setup.sh
 ``` 
 
 ## Beginner Level Theory - [ 0x1 - 0x6 ]
